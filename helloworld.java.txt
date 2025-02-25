@@ -2,3 +2,8 @@ public static void main()
 {
 	System.out.println("This is GitHubRepo");
 }
+
+public static void main()
+{
+	System.out.println("This is Second Commit");
+}
